@@ -1,5 +1,6 @@
 ### Hey There! 👋 I'm Anish.
 
+💬 You can contact me at anishnagariya07@gmail.com
 <!--
 **anish-nagariya/anish-nagariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
